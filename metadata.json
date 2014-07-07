@@ -1,0 +1,17 @@
+{
+  "name": "Rafailong-SemanticLogging",
+  "version": "0.1.0",
+  "author": "Rafael Avila Martinez",
+  "summary": "Semmantic Logging, search in all your log easily",
+  "license": "Apache 2.0",
+  "source": "https://github.com/Rafailong/SemanticLogging",
+  "project_page": "https://github.com/Rafailong/SemanticLogging",
+  "issues_url": "https://github.com/Rafailong/SemanticLogging/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
